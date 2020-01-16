@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/python\347\250\213\345\272\217/learning/tf_learn/CIFAR10_learn/save_model/model.ckpt-2000000"
+all_model_checkpoint_paths: "E:/python\347\250\213\345\272\217/learning/tf_learn/CIFAR10_learn/save_model/model.ckpt-2000000"
